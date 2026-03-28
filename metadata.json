@@ -1,0 +1,7 @@
+{
+  "name": "Crispy Hub - Delicious Fried Chicken",
+  "description": "Modern, high-converting fast-food website for a premium fried chicken brand in Nigeria. Order online for fast delivery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
